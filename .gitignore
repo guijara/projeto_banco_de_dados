@@ -1,1 +1,21 @@
+# Environment
 .env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# Build
+target/
+build/
+out/
